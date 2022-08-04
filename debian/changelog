@@ -1,0 +1,11 @@
+deepin-phone-assistant (5.1.0.47.1-1) unstable; urgency=medium
+
+  * update
+
+ -- Packages <deepin@deepin.com>  Wed, 27 Jan 2021 16:30:58 +0800
+
+deepin-phone-assistant (1.0.0-6) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Deepin Packages Builder <packages@deepin.com>  Thu, 17 Oct 2019 16:57:59 +0800

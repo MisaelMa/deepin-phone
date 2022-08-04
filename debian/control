@@ -1,0 +1,12 @@
+Source: deepin-phone-assistant
+Section: utils
+Priority: optional
+Maintainer: Packages <deepin@deepin.com>
+Build-Depends: debhelper (>= 11), pkg-config, qt5-qmake, qtbase5-dev, libdtkwidget-dev (>= 5.3.0-1), libdtkgui-dev, qtbase5-private-dev, qttools5-dev-tools, libqt5svg5-dev, libsystemd-dev, libavcodec-dev, libavformat-dev, libavfilter-dev, libavdevice-dev, libgio-qt-dev, libudisks2-qt5-dev, libtag1-dev
+Standards-Version: 4.1.3
+
+Package: com.deepin.phone.assistant
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libimobiledevice-utils, ideviceinstaller, android-tools-adb, libavcodec58, libavformat58, libavfilter7, libavdevice58, libgio-qt, libudisks2-qt5, libtag1v5, ifuse, aapt, libdtkwidget5 (>= 5.3.0-1)
+Description: deepin phone assistant is a convenient tool for managing smart phones from your 
+  personal computer which supports a wide range of mobile phone models to best meet your needs.

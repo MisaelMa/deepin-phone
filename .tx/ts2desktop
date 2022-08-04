@@ -1,0 +1,4 @@
+DESKTOP_TEMP_FILE=application/deepin-phone-assistant.desktop.tmp
+DESKTOP_SOURCE_FILE=application/deepin-phone-assistant.desktop
+DESKTOP_DEST_FILE=application/deepin-phone-assistant.desktop
+DESKTOP_TS_DIR=translations/desktop

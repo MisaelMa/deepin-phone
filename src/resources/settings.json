@@ -1,0 +1,58 @@
+{
+    "groups": [
+        {
+            "key": "base",
+            "name": "Basic",
+            "groups": [
+                {
+                    "key": "Startupsettings",
+                    "name": "Startup",
+                    "options": [
+                        {
+                            "key": "checkbox_one",
+                            "text": "Auto startup (Recommended)",
+                            "type": "checkbox",
+                            "default": 1
+                        }
+                    ]
+                },
+                {
+                    "key": "Closemainwindow",
+                    "name": "Close Main Window",
+                    "options": [
+                        {
+                            "key": "radiogroupclose",
+                            "name": "Close Main Window",
+                            "type": "radiogroup",
+                            "items": [
+                                "Exit",
+                                "Minimize to system tray"
+                            ],
+                            "default": 1
+                        },
+                        {
+                            "key": "askmealways",
+                            "text": "Ask me always",
+                            "type": "checkbox",
+                            "default": 1
+                        }
+
+                    ]
+                },
+                {
+                    "key": "Shortcut",
+                    "name": "Desktop Shortcut",
+                    "options": [
+                        {
+                            "key": "checkbox_two",
+                            "text": "Show icon on desktop",
+                            "type": "checkbox",
+                            "default": 0
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}

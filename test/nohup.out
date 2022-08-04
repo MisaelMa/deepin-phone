@@ -1,0 +1,118 @@
+[24379:24379:0924/091501.253544:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[24378:24378:0924/091501.269217:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[26235:26235:0924/092147.563402:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[26236:26236:0924/092147.584535:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[27251:27251:0924/092505.792288:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[27250:27250:0924/092505.809265:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[27339:27339:0924/092505.966305:ERROR:broker_posix.cc(43)] Invalid node channel message
+[27330:27330:0100/000000.153445:ERROR:broker_posix.cc(43)] Invalid node channel message
+[29010:29010:0924/092839.239920:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[29011:29011:0924/092839.257148:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[29477:29477:0924/092949.813831:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[29476:29476:0924/092949.830164:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[30687:30687:0924/093353.163713:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[30688:30688:0924/093353.180671:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[30767:30767:0924/093353.333825:ERROR:broker_posix.cc(43)] Invalid node channel message
+[4032:4032:0924/093741.094840:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[4031:4031:0924/093741.126696:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[4568:4568:0924/093914.312421:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[4567:4567:0924/093914.328971:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[5605:5605:0924/094227.708443:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[5604:5604:0924/094227.729536:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[6225:6225:0924/094335.799895:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[6224:6224:0924/094335.831663:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+[6309:6309:0924/094335.955137:ERROR:broker_posix.cc(43)] Invalid node channel message
+Opening in existing browser session.
+[6303:6303:0100/000000.094274:ERROR:broker_posix.cc(43)] Invalid node channel message
+[8811:8811:0924/095000.226081:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[8812:8812:0924/095000.237793:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[8911:8911:0924/095000.400892:ERROR:broker_posix.cc(43)] Invalid node channel message
+[9209:9209:0924/095029.452805:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[9208:9208:0924/095029.503991:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[9834:9834:0924/095147.327444:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[9835:9835:0924/095147.366995:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+[9919:9919:0924/095147.522654:ERROR:broker_posix.cc(43)] Invalid node channel message
+Opening in existing browser session.
+[9908:9908:0100/000000.812921:ERROR:broker_posix.cc(43)] Invalid node channel message
+[10386:10386:0924/095318.024193:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[10385:10385:0924/095318.039071:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[10475:10475:0924/095318.189602:ERROR:broker_posix.cc(43)] Invalid node channel message
+[10750:10750:0924/095353.346651:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[10751:10751:0924/095353.347830:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[11107:11107:0924/095430.694822:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[11108:11108:0924/095430.730449:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[11193:11193:0924/095430.871818:ERROR:broker_posix.cc(43)] Invalid node channel message
+[11182:11182:0100/000000.999033:ERROR:broker_posix.cc(43)] Invalid node channel message
+[11857:11857:0924/095630.993511:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[11856:11856:0924/095631.024154:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[11939:11939:0924/095631.164201:ERROR:broker_posix.cc(43)] Invalid node channel message
+[12790:12790:0924/095827.251486:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[12788:12788:0924/095827.277393:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[21557:21557:0924/105833.482573:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[21558:21558:0924/105833.482573:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[21659:21659:0924/105833.663056:ERROR:broker_posix.cc(43)] Invalid node channel message
+[21648:21648:0100/000000.869123:ERROR:broker_posix.cc(43)] Invalid node channel message
+[22960:22960:0924/110146.940260:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[22959:22959:0924/110146.950502:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[23041:23041:0924/110147.115493:ERROR:broker_posix.cc(43)] Invalid node channel message
+[23028:23028:0100/000000.410303:ERROR:broker_posix.cc(43)] Invalid node channel message
+<<<<<<< Updated upstream
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file
+=======
+[1087:1087:0924/151102.006677:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[1088:1088:0924/151102.020854:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[1182:1182:0924/151102.201574:ERROR:broker_posix.cc(43)] Invalid node channel message
+>>>>>>> Stashed changes
+[9669:9669:0924/153042.423379:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[9670:9670:0924/153042.423407:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+Opening in existing browser session.
+Opening in existing browser session.
+[9770:9770:0924/153042.638212:ERROR:broker_posix.cc(43)] Invalid node channel message
+[9762:9762:0100/000000.933965:ERROR:broker_posix.cc(43)] Invalid node channel message

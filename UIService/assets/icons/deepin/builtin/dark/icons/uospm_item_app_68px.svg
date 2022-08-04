@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>应用</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFBF7D" offset="0%"></stop>
+            <stop stop-color="#FF5959" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M29,31.0725806 L24,31.0725806 C21.6714286,31.0725806 20,29.4011521 20,27.0725806 L20,22.0725806 C20,19.7440092 21.6714286,18.0725806 24,18.0725806 L29,18.0725806 C31.3285714,18.0725806 33,19.7440092 33,22.0725806 L33,27.0725806 C33,29.4011521 31.3285714,31.0725806 29,31.0725806 Z M29,48.0725806 L24,48.0725806 C21.6714286,48.0725806 20,46.4011521 20,44.0725806 L20,39.0725806 C20,36.7440092 21.6714286,35.0725806 24,35.0725806 L29,35.0725806 C31.3285714,35.0725806 33,36.7440092 33,39.0725806 L33,44.0725806 C33,46.4011521 31.3285714,48.0725806 29,48.0725806 Z M38.3333333,30.205914 L34.8666667,26.7392473 C33.6645161,25.6209677 33.6645161,23.5241936 34.8666667,22.405914 L38.3333333,18.9392473 C39.4516129,17.7370968 41.5483871,17.7370968 42.6666667,18.9392473 L46.1333333,22.405914 C47.3354839,23.5241936 47.3354839,25.6209677 46.1333333,26.7392473 L42.6666667,30.205914 C41.5483871,31.4080645 39.3677419,31.4080645 38.3333333,30.205914 L38.3333333,30.205914 Z M43,48.0725806 L38,48.0725806 C35.6714286,48.0725806 34,46.4011521 34,44.0725806 L34,39.0725806 C34,36.7440092 35.6714286,35.0725806 38,35.0725806 L43,35.0725806 C45.3285714,35.0725806 47,36.7440092 47,39.0725806 L47,44.0725806 C47,46.4011521 45.3285714,48.0725806 43,48.0725806 Z" id="path-3"></path>
+        <filter x="-1.8%" y="-1.7%" width="103.7%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.0392156863   0 0 0 0 0.0392156863  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页-ANDROID-手机" transform="translate(-1123.000000, -342.000000)" fill-rule="nonzero">
+            <g id="编组-5" transform="translate(1092.000000, 325.000000)">
+                <g id="deepin-multitasking-view" transform="translate(31.000000, 17.000000)">
+                    <g id="Group-63-Copy">
+                        <g id="应用">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="68" height="68" rx="18"></rect>
+                            <g id="形状">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

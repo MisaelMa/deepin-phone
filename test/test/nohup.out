@@ -1,0 +1,140 @@
+[12967:12967:0813/194027.007801:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[12966:12966:0813/194027.018697:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194027.124803:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194027.159203:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[13150:13150:0813/194034.590488:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[13151:13151:0813/194034.601443:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194034.708077:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194034.743043:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[13573:13573:0813/194056.898703:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[13572:13572:0813/194056.909710:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194057.014489:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194057.052216:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[14149:14149:0813/194157.650263:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[14150:14150:0813/194157.661429:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194157.768234:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194157.803113:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[14577:14577:0813/194217.568655:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[14578:14578:0813/194217.580158:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194217.676108:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194217.713531:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[14749:14749:0813/194222.735617:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[14750:14750:0813/194222.747553:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194222.858516:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[14833:14833:0813/194222.894800:ERROR:broker_posix.cc(43)] Invalid node channel message
+正在现有的浏览器会话中打开。
+[0813/194222.916443:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[14821:14821:0100/000000.208888:ERROR:broker_posix.cc(43)] Invalid node channel message
+[15268:15268:0813/194310.196247:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[15269:15269:0813/194310.199336:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194310.314552:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194310.334322:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[15355:15355:0813/194310.352682:ERROR:broker_posix.cc(43)] Invalid node channel message
+[15337:15337:0100/000000.619506:ERROR:broker_posix.cc(43)] Invalid node channel message
+[15935:15935:0813/194421.363873:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[15936:15936:0813/194421.374991:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194421.487526:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[16016:16016:0813/194421.516213:ERROR:broker_posix.cc(43)] Invalid node channel message
+正在现有的浏览器会话中打开。
+[0813/194421.534568:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[16004:16004:0100/000000.830511:ERROR:broker_posix.cc(43)] Invalid node channel message
+[18542:18542:0813/194816.631211:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[18543:18543:0813/194816.643052:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194816.752914:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194816.794110:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[18735:18735:0813/194823.700146:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[18734:18734:0813/194823.700156:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194823.825435:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194823.849470:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[19180:19180:0813/194900.172682:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[19179:19179:0813/194900.185064:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194900.284106:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[19292:19292:0813/194900.331494:ERROR:broker_posix.cc(43)] Invalid node channel message
+[0813/194900.334374:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[19269:19269:0100/000000.523907:ERROR:broker_posix.cc(43)] Invalid node channel message
+[19446:19446:0813/194908.126903:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[19447:19447:0813/194908.139511:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194908.243757:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194908.277417:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[19748:19748:0813/194930.328492:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+[19747:19747:0813/194930.337774:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_value_set_boxed: assertion 'G_VALUE_HOLDS_BOXED (value)' failed
+正在现有的浏览器会话中打开。
+[0813/194930.443710:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+[0813/194930.478534:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+正在现有的浏览器会话中打开。
+Fontconfig error: Cannot load default config file

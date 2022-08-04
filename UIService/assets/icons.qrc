@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/deepin/builtin/dark/icons/uospm_message_ok_26px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_message_ok_26px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_title_import_36px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_title_delete_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_title_import_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_title_delete_36px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_title_export_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_title_export_36px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_title_new_folder_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_title_new_folder_36px.svg</file>
+        <file>icons/deepin/builtin/dark/texts/uospm_iconview_36px.svg</file>
+        <file>icons/deepin/builtin/dark/texts/uospm_listview_36px.svg</file>
+        <file>icons/deepin/builtin/light/texts/uospm_iconview_36px.svg</file>
+        <file>icons/deepin/builtin/light/texts/uospm_listview_36px.svg</file>
+        <file>icons/deepin/builtin/dark/actions/uospm_app_delete_30px.svg</file>
+        <file>icons/deepin/builtin/light/actions/uospm_app_delete_30px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_app_select_delete_30px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_app_select_delete_30px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_message_warning_26px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_message_warning_26px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_item_ebook_68px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_item_ebook_68px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_item_video_68px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_item_video_68px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_item_file_68px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_item_music_68px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_item_picture_68px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_item_file_68px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_item_music_68px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_item_picture_68px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_item_app_68px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_item_app_68px.svg</file>
+        <file>icons/deepin/builtin/light/actions/uospm_app_export_30px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_app_select_export_30px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_app_select_export_30px.svg</file>
+        <file>icons/deepin/builtin/dark/actions/uospm_app_export_30px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_android_icon_24px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_android_icon_24px.svg</file>
+        <file>icons/deepin/builtin/dark/icons/uospm_ios_icon_24px.svg</file>
+        <file>icons/deepin/builtin/light/icons/uospm_ios_icon_24px.svg</file>
+    </qresource>
+</RCC>
